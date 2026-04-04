@@ -1,0 +1,1 @@
+b = random.randint(1, 10) 
